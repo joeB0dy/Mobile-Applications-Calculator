@@ -16,7 +16,9 @@ class entryFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //buttons to code:
-        //binding.tvEntry.text
+        //binding.tvEntry.text we need ViewModel to manipulate.
+
+        
 
     }
     //private lateinit var viewModel:       //ViewModel from Week 11. gawd damn we are 4 weeks away from end of class.
