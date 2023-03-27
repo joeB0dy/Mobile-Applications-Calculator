@@ -5,13 +5,13 @@
     android:id="@+id/entryFragmentLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".entryFragment">
+    tools:context=".EntryFragment">
 
     <TextView
         android:id="@+id/tvEntry"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Entry"
+        android:text="0"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
